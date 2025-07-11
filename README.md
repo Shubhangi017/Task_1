@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This proje involves an exploratory data analysis (EDA) of the Amazon Prime Video content catalog. The primary goal is to uncover insights into the types of content available, popular genres, prolific directors, content ratings, and trends in content release over the years.
+This project involves an exploratory data analysis (EDA) of the Amazon Prime Video content catalog. The primary goal is to uncover insights into the types of content available, popular genres, prolific directors, content ratings, and trends in content release over the years.
 
 ## Dataset
 
